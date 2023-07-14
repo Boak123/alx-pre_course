@@ -1,2 +1,2 @@
 # alx-pre_course
-i am now a ALX student this is my first repository
+I am now a ALX student this is my first repository
